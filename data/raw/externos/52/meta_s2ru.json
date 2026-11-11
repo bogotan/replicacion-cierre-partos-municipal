@@ -1,0 +1,1430 @@
+{
+  "id" : "s2ru-bqt6",
+  "name" : "Relación de IPS públicas y privadas según el nivel de atención y capacidad instalada",
+  "assetType" : "dataset",
+  "attribution" : "Ministerio de Salud y Protección Social - MinSalud, Bogotá D.C.",
+  "attributionLink" : "https://prestadores.minsalud.gov.co/habilitacion/",
+  "averageRating" : 0,
+  "category" : "Salud y Protección Social",
+  "createdAt" : 1497650233,
+  "description" : "Relación de IPS públicas y privadas según el nivel de atención y capacidad instalada\nFuente: Base de datos Registros Especial de Prestadores de Servicios de Salud - REPS\nDiligencia la Encuesta de Satisfacción:\nhttps://tramites.minsalud.gov.co/FormularioInscripcion/EncuestaSatisfaccion.aspx",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 35543,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "licenseId" : "CC_40_BY_SA",
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 36989115,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1618250028,
+  "publicationGroup" : 14269615,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1669070228,
+  "tableId" : 18217128,
+  "totalTimesRated" : 0,
+  "viewCount" : 179339,
+  "viewLastModified" : 1779122477,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1603039330,
+    "reviewedAutomatically" : false,
+    "state" : "approved",
+    "submissionId" : 3513379,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1602625168,
+    "targetAudience" : "public",
+    "workflowId" : 2188,
+    "reviewer" : {
+      "id" : "r4qn-dwdd",
+      "displayName" : "Ministerio de Tecnologías de la Información y las Comunicaciones - Datos Abiertos"
+    },
+    "submissionDetails" : {
+      "permissionType" : "read"
+    },
+    "submissionOutcomeApplication" : {
+      "endedAt" : 1603039331,
+      "failureCount" : 0,
+      "startedAt" : 1603039330,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "vc9x-zjzh",
+      "displayName" : "soporteccc"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 535887723,
+    "name" : "Departamento",
+    "dataTypeName" : "text",
+    "description" : "Departamento",
+    "fieldName" : "departamento",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378394,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "Vichada",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Bogotá D.C",
+        "count" : "4647"
+      }, {
+        "item" : "Antioquia",
+        "count" : "4245"
+      }, {
+        "item" : "Santander",
+        "count" : "2486"
+      }, {
+        "item" : "Cundinamarca",
+        "count" : "1820"
+      }, {
+        "item" : "Córdoba",
+        "count" : "1701"
+      }, {
+        "item" : "Cali",
+        "count" : "1700"
+      }, {
+        "item" : "Nariño",
+        "count" : "1567"
+      }, {
+        "item" : "Cesar",
+        "count" : "1554"
+      }, {
+        "item" : "Valle del cauca",
+        "count" : "1543"
+      }, {
+        "item" : "Barranquilla",
+        "count" : "1418"
+      }, {
+        "item" : "Tolima",
+        "count" : "1330"
+      }, {
+        "item" : "Boyacá",
+        "count" : "1253"
+      }, {
+        "item" : "Sucre",
+        "count" : "1208"
+      }, {
+        "item" : "Norte de Santander",
+        "count" : "1200"
+      }, {
+        "item" : "Cauca",
+        "count" : "1117"
+      }, {
+        "item" : "Atlántico",
+        "count" : "1115"
+      }, {
+        "item" : "Meta",
+        "count" : "1068"
+      }, {
+        "item" : "Cartagena",
+        "count" : "1054"
+      }, {
+        "item" : "Huila",
+        "count" : "1027"
+      }, {
+        "item" : "Bolívar",
+        "count" : "1006"
+      } ],
+      "smallest" : "Amazonas",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887724,
+    "name" : "Municipio",
+    "dataTypeName" : "text",
+    "description" : "Municipio",
+    "fieldName" : "municipio",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378391,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "ZONA BANANERA",
+      "null" : "0",
+      "top" : [ {
+        "item" : "BOGOTÁ",
+        "count" : "4647"
+      }, {
+        "item" : "MEDELLÍN",
+        "count" : "1711"
+      }, {
+        "item" : "CALI",
+        "count" : "1700"
+      }, {
+        "item" : "BARRANQUILLA",
+        "count" : "1418"
+      }, {
+        "item" : "CARTAGENA",
+        "count" : "1054"
+      }, {
+        "item" : "MONTERÍA",
+        "count" : "795"
+      }, {
+        "item" : "BUCARAMANGA",
+        "count" : "778"
+      }, {
+        "item" : "VALLEDUPAR",
+        "count" : "775"
+      }, {
+        "item" : "SANTA MARTA",
+        "count" : "757"
+      }, {
+        "item" : "IBAGUÉ",
+        "count" : "584"
+      }, {
+        "item" : "SINCELEJO",
+        "count" : "583"
+      }, {
+        "item" : "VILLAVICENCIO",
+        "count" : "582"
+      }, {
+        "item" : "CÚCUTA",
+        "count" : "581"
+      }, {
+        "item" : "PEREIRA",
+        "count" : "497"
+      }, {
+        "item" : "PASTO",
+        "count" : "447"
+      }, {
+        "item" : "NEIVA",
+        "count" : "410"
+      }, {
+        "item" : "MANIZALES",
+        "count" : "406"
+      }, {
+        "item" : "SOLEDAD",
+        "count" : "405"
+      }, {
+        "item" : "POPAYÁN",
+        "count" : "370"
+      }, {
+        "item" : "ARMENIA",
+        "count" : "341"
+      } ],
+      "smallest" : "ABEJORRAL",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887743,
+    "name" : "Código prestador",
+    "dataTypeName" : "number",
+    "description" : "Código prestador",
+    "fieldName" : "c_digo_prestador",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 135430775,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "9977300145",
+      "null" : "0",
+      "top" : [ {
+        "item" : "5060600634",
+        "count" : "176"
+      }, {
+        "item" : "1100130296",
+        "count" : "171"
+      }, {
+        "item" : "1100130291",
+        "count" : "167"
+      }, {
+        "item" : "8544000422",
+        "count" : "153"
+      }, {
+        "item" : "500102178",
+        "count" : "144"
+      }, {
+        "item" : "1100130294",
+        "count" : "137"
+      }, {
+        "item" : "1100130289",
+        "count" : "136"
+      }, {
+        "item" : "800104454",
+        "count" : "127"
+      }, {
+        "item" : "1100108171",
+        "count" : "113"
+      }, {
+        "item" : "8179400206",
+        "count" : "102"
+      }, {
+        "item" : "500105568",
+        "count" : "102"
+      }, {
+        "item" : "2300100553",
+        "count" : "101"
+      }, {
+        "item" : "9100100019",
+        "count" : "101"
+      }, {
+        "item" : "5400100861",
+        "count" : "93"
+      }, {
+        "item" : "5283500905",
+        "count" : "92"
+      }, {
+        "item" : "1300100871",
+        "count" : "92"
+      }, {
+        "item" : "1910000114",
+        "count" : "89"
+      }, {
+        "item" : "1900107547",
+        "count" : "88"
+      }, {
+        "item" : "7652003029",
+        "count" : "82"
+      }, {
+        "item" : "5481001073",
+        "count" : "81"
+      } ],
+      "smallest" : "500100012",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : {
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 535887726,
+    "name" : "Nombre prestador",
+    "dataTypeName" : "text",
+    "description" : "Nombre prestador",
+    "fieldName" : "nombre_prestador",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378396,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "ZOOM VIEW OPTICAL SAS",
+      "null" : "0",
+      "top" : [ {
+        "item" : "EMPRESA SOCIAL DEL ESTADO DEL DEPARTAMENTO DEL META ESE \"SOLUCION SALUD\"",
+        "count" : "176"
+      }, {
+        "item" : "Subred Integrada de Servicios de Salud Sur Occidente E.S.E",
+        "count" : "171"
+      }, {
+        "item" : "SUBRED INTEGRADA DE SERVICIOS DE SALUD NORTE E.S.E",
+        "count" : "167"
+      }, {
+        "item" : "Servicios de Salud IPS Suramericana S.A.S",
+        "count" : "165"
+      }, {
+        "item" : "CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO",
+        "count" : "163"
+      }, {
+        "item" : "RED SALUD CASANARE E.S.E.",
+        "count" : "153"
+      }, {
+        "item" : "EMPRESA SOCIAL DEL ESTADO METROSALUD",
+        "count" : "144"
+      }, {
+        "item" : "SUBRED INTEGRADA DE SERVICIOS DE SALUD SUR E.S.E.",
+        "count" : "137"
+      }, {
+        "item" : "SUBRED INTEGRADA DE SERVICIOS DE SALUD CENTRO ORIENTE E.S.E",
+        "count" : "136"
+      }, {
+        "item" : "MIRED BARRANQUILLA IPS S.A.S.",
+        "count" : "127"
+      }, {
+        "item" : "DUMIAN MÉDICAL S.A.S",
+        "count" : "125"
+      }, {
+        "item" : "RTS S.A.S",
+        "count" : "121"
+      }, {
+        "item" : "ENTIDAD PROMOTORA DE SALUD SANITAS S.A.S",
+        "count" : "108"
+      }, {
+        "item" : "CAJA DE COMPENSACION FAMILIAR DE ANTIOQUIA COMFAMA",
+        "count" : "104"
+      }, {
+        "item" : "ESE MORENO Y CLAVIJO",
+        "count" : "102"
+      }, {
+        "item" : "EMPRESA SOCIAL DEL ESTADO VIDASINU",
+        "count" : "101"
+      }, {
+        "item" : "ESE HOSPITAL SAN RAFAEL",
+        "count" : "101"
+      }, {
+        "item" : "E.S.E. HOSPITAL SAN RAFAEL DE LETICIA",
+        "count" : "101"
+      }, {
+        "item" : "GLOBAL LIFE AMBULANCIAS SAS",
+        "count" : "95"
+      }, {
+        "item" : "CLINICA COLSANITAS S.A.",
+        "count" : "95"
+      } ],
+      "smallest" : "1106 S.A.S",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887744,
+    "name" : "nit IPS ",
+    "dataTypeName" : "number",
+    "description" : "",
+    "fieldName" : "nit_ips",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 135430776,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "901646475",
+      "null" : "0",
+      "top" : [ {
+        "item" : "822006595",
+        "count" : "176"
+      }, {
+        "item" : "900959048",
+        "count" : "171"
+      }, {
+        "item" : "900971006",
+        "count" : "167"
+      }, {
+        "item" : "860007336",
+        "count" : "165"
+      }, {
+        "item" : "811007832",
+        "count" : "165"
+      }, {
+        "item" : "844004197",
+        "count" : "153"
+      }, {
+        "item" : "800058016",
+        "count" : "144"
+      }, {
+        "item" : "800003765",
+        "count" : "143"
+      }, {
+        "item" : "900958564",
+        "count" : "137"
+      }, {
+        "item" : "900959051",
+        "count" : "136"
+      }, {
+        "item" : "901139193",
+        "count" : "127"
+      }, {
+        "item" : "805027743",
+        "count" : "125"
+      }, {
+        "item" : "805011262",
+        "count" : "121"
+      }, {
+        "item" : "900219120",
+        "count" : "115"
+      }, {
+        "item" : "800251440",
+        "count" : "108"
+      }, {
+        "item" : "800149384",
+        "count" : "107"
+      }, {
+        "item" : "890900841",
+        "count" : "104"
+      }, {
+        "item" : "860013570",
+        "count" : "103"
+      }, {
+        "item" : "900034131",
+        "count" : "102"
+      }, {
+        "item" : "812005726",
+        "count" : "101"
+      } ],
+      "smallest" : "27396736",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right"
+    }
+  }, {
+    "id" : 535887728,
+    "name" : "num digito_verificion",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "num_digito_verificion",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378398,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : "41399",
+      "largest" : "9",
+      "null" : "28",
+      "top" : [ {
+        "item" : "1",
+        "count" : "7463"
+      }, {
+        "item" : "9",
+        "count" : "4167"
+      }, {
+        "item" : "5",
+        "count" : "4059"
+      }, {
+        "item" : "7",
+        "count" : "3883"
+      }, {
+        "item" : "4",
+        "count" : "3866"
+      }, {
+        "item" : "3",
+        "count" : "3783"
+      }, {
+        "item" : "2",
+        "count" : "3705"
+      }, {
+        "item" : "6",
+        "count" : "3600"
+      }, {
+        "item" : "0",
+        "count" : "3482"
+      }, {
+        "item" : "8",
+        "count" : "3390"
+      }, {
+        "item" : "-1",
+        "count" : "1"
+      } ],
+      "smallest" : "0",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887729,
+    "name" : "naturaleza",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "naturaleza",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 49588667,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "Pública",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Privada",
+        "count" : "25067"
+      }, {
+        "item" : "Pública",
+        "count" : "16174"
+      }, {
+        "item" : "Mixta",
+        "count" : "186"
+      } ],
+      "smallest" : "Mixta",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887730,
+    "name" : "num nivel atencion",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "num_nivel_atencion",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378390,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : "16161",
+      "largest" : "3",
+      "null" : "25266",
+      "top" : [ {
+        "item" : "1",
+        "count" : "12588"
+      }, {
+        "item" : "2",
+        "count" : "2424"
+      }, {
+        "item" : "3",
+        "count" : "1149"
+      } ],
+      "smallest" : "1",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887745,
+    "name" : "Código sede",
+    "dataTypeName" : "number",
+    "description" : "Código sede",
+    "fieldName" : "c_digo_sede",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 135430777,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "9977300145",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1100130296",
+        "count" : "171"
+      }, {
+        "item" : "1100130291",
+        "count" : "167"
+      }, {
+        "item" : "500102178",
+        "count" : "144"
+      }, {
+        "item" : "1100130294",
+        "count" : "137"
+      }, {
+        "item" : "1100130289",
+        "count" : "136"
+      }, {
+        "item" : "800104454",
+        "count" : "127"
+      }, {
+        "item" : "1100108171",
+        "count" : "113"
+      }, {
+        "item" : "2300100553",
+        "count" : "101"
+      }, {
+        "item" : "5400100861",
+        "count" : "93"
+      }, {
+        "item" : "5283500905",
+        "count" : "92"
+      }, {
+        "item" : "1300100871",
+        "count" : "92"
+      }, {
+        "item" : "7652003029",
+        "count" : "82"
+      }, {
+        "item" : "1100117870",
+        "count" : "73"
+      }, {
+        "item" : "4700100071",
+        "count" : "71"
+      }, {
+        "item" : "1100109186",
+        "count" : "67"
+      }, {
+        "item" : "2000100464",
+        "count" : "65"
+      }, {
+        "item" : "1100105597",
+        "count" : "64"
+      }, {
+        "item" : "7600103959",
+        "count" : "64"
+      }, {
+        "item" : "7300100771",
+        "count" : "63"
+      }, {
+        "item" : "6800100701",
+        "count" : "62"
+      } ],
+      "smallest" : "500100012",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : {
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 535887732,
+    "name" : "Número sede",
+    "dataTypeName" : "text",
+    "description" : "Número sede",
+    "fieldName" : "n_mero_sede",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378389,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "78",
+      "null" : "0",
+      "top" : [ {
+        "item" : "01",
+        "count" : "27699"
+      }, {
+        "item" : "02",
+        "count" : "3356"
+      }, {
+        "item" : "03",
+        "count" : "1998"
+      }, {
+        "item" : "04",
+        "count" : "1284"
+      }, {
+        "item" : "05",
+        "count" : "821"
+      }, {
+        "item" : "06",
+        "count" : "662"
+      }, {
+        "item" : "07",
+        "count" : "629"
+      }, {
+        "item" : "08",
+        "count" : "459"
+      }, {
+        "item" : "10",
+        "count" : "394"
+      }, {
+        "item" : "09",
+        "count" : "391"
+      }, {
+        "item" : "11",
+        "count" : "288"
+      }, {
+        "item" : "12",
+        "count" : "248"
+      }, {
+        "item" : "13",
+        "count" : "236"
+      }, {
+        "item" : "14",
+        "count" : "211"
+      }, {
+        "item" : "15",
+        "count" : "198"
+      }, {
+        "item" : "16",
+        "count" : "189"
+      }, {
+        "item" : "23",
+        "count" : "156"
+      }, {
+        "item" : "17",
+        "count" : "146"
+      }, {
+        "item" : "25",
+        "count" : "140"
+      }, {
+        "item" : "20",
+        "count" : "116"
+      } ],
+      "smallest" : "01",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887733,
+    "name" : "nom sede IPS",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "nom_sede_ips",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 48927711,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "ZOOM VIEW OPTICAL SAS",
+      "null" : "0",
+      "top" : [ {
+        "item" : "GLOBAL LIFE AMBULANCIAS SAS",
+        "count" : "87"
+      }, {
+        "item" : "LAFAM OPTICAS",
+        "count" : "73"
+      }, {
+        "item" : "EMPRESA DE MEDICINA INTEGRAL EMI S.A.S. SERVICIO DE AMBULANCIA PREPAGADA SIGLA GRUPO EMI S.A.S.",
+        "count" : "67"
+      }, {
+        "item" : "UNIDAD DE SERVICIOS DE SALUD ENGATIVÁ CALLE 80",
+        "count" : "59"
+      }, {
+        "item" : "UNIDAD DE SERVICIOS DE SALUD SAN BLAS",
+        "count" : "55"
+      }, {
+        "item" : "Unidad de Servicios de Salud Occidente de Kennedy",
+        "count" : "54"
+      }, {
+        "item" : "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN VICENTE DE PAUL",
+        "count" : "53"
+      }, {
+        "item" : "ESE HOSPITAL SAN VICENTE DE PAUL",
+        "count" : "50"
+      }, {
+        "item" : "ESE HOSPITAL SAN RAFAEL",
+        "count" : "49"
+      }, {
+        "item" : "ESE HOSPITAL SAN ANTONIO",
+        "count" : "47"
+      }, {
+        "item" : "UNIDAD DE SERVICIOS DE SALUD SIMÓN BOLÍVAR",
+        "count" : "41"
+      }, {
+        "item" : "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL",
+        "count" : "41"
+      }, {
+        "item" : "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN JOSE",
+        "count" : "38"
+      }, {
+        "item" : "ESE HOSPITAL SAN JOSE",
+        "count" : "38"
+      }, {
+        "item" : "ESE HOSPITAL SAGRADO CORAZON DE JESUS",
+        "count" : "37"
+      }, {
+        "item" : "HOME GROUP S.A.S",
+        "count" : "36"
+      }, {
+        "item" : "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN ANTONIO",
+        "count" : "35"
+      }, {
+        "item" : "HOSPITAL SAN VICENTE DE PAUL",
+        "count" : "35"
+      }, {
+        "item" : "PROFESIONALES DE LA SALUD S.A. \"PROINSALUD S.A.\"",
+        "count" : "34"
+      }, {
+        "item" : "Unidad de Servicios de Salud Fontibón",
+        "count" : "34"
+      } ],
+      "smallest" : "01. CLINICA DEL CAFE 2DO PISO CARDIOLOGOS DEL CAFE SAS",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887734,
+    "name" : "Gerente",
+    "dataTypeName" : "text",
+    "description" : "Gerente",
+    "fieldName" : "gerente",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378387,
+    "cachedContents" : {
+      "non_null" : "41202",
+      "largest" : "Zulma Vianey Castellanos Ortiz",
+      "null" : "225",
+      "top" : [ {
+        "item" : "JORGE HERNAN MOJICA MOLINARES",
+        "count" : "176"
+      }, {
+        "item" : "MARTHA YOLANDA RUIZ VALDES",
+        "count" : "171"
+      }, {
+        "item" : "DANIEL ISIDORO BLANCO SANTAMARIA",
+        "count" : "167"
+      }, {
+        "item" : "LUIS FERNANDO PINEDA AVILA",
+        "count" : "137"
+      }, {
+        "item" : "YIYOLA YAMILE PEÑA RIOS",
+        "count" : "136"
+      }, {
+        "item" : "HENRY ALBERTO RIVEROS QUEVEDO",
+        "count" : "132"
+      }, {
+        "item" : "ROMULO EUSTORGIO RODADO VILLA",
+        "count" : "127"
+      }, {
+        "item" : "WILDER HERNANDO ORTIZ BUENO",
+        "count" : "102"
+      }, {
+        "item" : "SAIDA VIVIANA HERREÑO PRIETO",
+        "count" : "101"
+      }, {
+        "item" : "JAVIER FERNANDO NIETO BELLO",
+        "count" : "95"
+      }, {
+        "item" : "JORGE EDUARDO SUAREZ GOMEZ",
+        "count" : "92"
+      }, {
+        "item" : "JUAN AGUSTIN RAMIREZ M",
+        "count" : "88"
+      }, {
+        "item" : "CAROLINA FARINANGO HERNANDEZ",
+        "count" : "85"
+      }, {
+        "item" : "EMILCE AREVALO GARCIA",
+        "count" : "82"
+      }, {
+        "item" : "Claudia Ximena Martinez Estupíñan",
+        "count" : "82"
+      }, {
+        "item" : "DORIS ESTELLA SPATH PORTILLO",
+        "count" : "81"
+      }, {
+        "item" : "KATHERINE CALABRO GALVIS",
+        "count" : "76"
+      }, {
+        "item" : "BOLIVAR FERNANDO CORDERO BARRAGAN",
+        "count" : "75"
+      }, {
+        "item" : "ANA MARIA PEREZ RAMIREZ",
+        "count" : "75"
+      }, {
+        "item" : "HERNANDO MACIAS AROS",
+        "count" : "71"
+      } ],
+      "smallest" : "aavila.nuevaciudad@gmail.com",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887735,
+    "name" : "Dirección",
+    "dataTypeName" : "text",
+    "description" : "Dirección",
+    "fieldName" : "direcci_n",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378385,
+    "cachedContents" : {
+      "non_null" : "41367",
+      "largest" : "zonz rural",
+      "null" : "60",
+      "top" : [ {
+        "item" : "CALLE PRINCIPAL",
+        "count" : "275"
+      }, {
+        "item" : "CENTRO",
+        "count" : "102"
+      }, {
+        "item" : "CALLE 163 # 16 C 62",
+        "count" : "73"
+      }, {
+        "item" : "TRANSVERSAL 100 A # 80 A - 50",
+        "count" : "59"
+      }, {
+        "item" : "CL PRINCIPAL",
+        "count" : "55"
+      }, {
+        "item" : "TRANSVERSAL 5 ESTE NUMERO 19-50 SUR",
+        "count" : "55"
+      }, {
+        "item" : "TV 74 F # 40 B 54 SUR",
+        "count" : "54"
+      }, {
+        "item" : "EL CENTRO",
+        "count" : "44"
+      }, {
+        "item" : "CALLE 165 # 7 06",
+        "count" : "41"
+      }, {
+        "item" : "calle 6 # 50-21",
+        "count" : "36"
+      }, {
+        "item" : "Carrera 99 No. 16i - 41",
+        "count" : "34"
+      }, {
+        "item" : "CALLE 71 A N 70B-35",
+        "count" : "33"
+      }, {
+        "item" : "CALLE 5 # 36 - 08",
+        "count" : "32"
+      }, {
+        "item" : "CARRERA 65 # 98 - 115",
+        "count" : "32"
+      }, {
+        "item" : "PLAZA PRINCIPAL",
+        "count" : "30"
+      }, {
+        "item" : "CALLE 7 No. 17-05",
+        "count" : "29"
+      }, {
+        "item" : "CARRERA 40 # 33-20",
+        "count" : "29"
+      }, {
+        "item" : "CALLE 9 # 15-25",
+        "count" : "28"
+      }, {
+        "item" : "KR 48 # 14 - 49",
+        "count" : "28"
+      }, {
+        "item" : "CALLE 102 A NO. 70G-19  y 70G-21",
+        "count" : "28"
+      } ],
+      "smallest" : "---",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887736,
+    "name" : "Email",
+    "dataTypeName" : "text",
+    "description" : "Email",
+    "fieldName" : "email",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378393,
+    "cachedContents" : {
+      "non_null" : "41362",
+      "largest" : "Zulma.Rios@fmc-ag.com",
+      "null" : "65",
+      "top" : [ {
+        "item" : "gerente@subredsuroccidente.gov.co",
+        "count" : "171"
+      }, {
+        "item" : "subrednorte@saludcapital.gov.co",
+        "count" : "167"
+      }, {
+        "item" : "sfiguero@colsanitas.com",
+        "count" : "162"
+      }, {
+        "item" : "calidad@virreysolisips.com.co",
+        "count" : "155"
+      }, {
+        "item" : "subredsur@saludcapital.gov.co",
+        "count" : "137"
+      }, {
+        "item" : "documental@miredips.org",
+        "count" : "127"
+      }, {
+        "item" : "subcentrooriente@saludcapital.gov.co",
+        "count" : "126"
+      }, {
+        "item" : "calidad.colsubsidio@colsubsidio.com",
+        "count" : "113"
+      }, {
+        "item" : "calidadsalud@cafam.com.co",
+        "count" : "103"
+      }, {
+        "item" : "calidad@esevidasinu.gov.co",
+        "count" : "101"
+      }, {
+        "item" : "harold.rivera@lafam.com.co",
+        "count" : "98"
+      }, {
+        "item" : "calidad@glambulancias.com",
+        "count" : "95"
+      }, {
+        "item" : "info@imsalud.gov.co",
+        "count" : "93"
+      }, {
+        "item" : "divinonino@esechdntumaco.gov.co",
+        "count" : "92"
+      }, {
+        "item" : "notificacionesjudiciales@bienestarips.com",
+        "count" : "84"
+      }, {
+        "item" : "calidad@hrob.gov.co",
+        "count" : "82"
+      }, {
+        "item" : "calidad@davita.com",
+        "count" : "81"
+      }, {
+        "item" : "secretaria_gerencia@eseregionalnorte.gov.co",
+        "count" : "81"
+      }, {
+        "item" : "secretariageneral@esecentro.com.co",
+        "count" : "76"
+      }, {
+        "item" : "correoese@esealprorev.gov.co",
+        "count" : "71"
+      } ],
+      "smallest" : "123emergenciasips@gmail.com",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887737,
+    "name" : "Teléfono",
+    "dataTypeName" : "text",
+    "description" : "Teléfono",
+    "fieldName" : "tel_fono",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378388,
+    "cachedContents" : {
+      "non_null" : "40118",
+      "largest" : "TEL:8282838     CEL:3165161533",
+      "null" : "1309",
+      "top" : [ {
+        "item" : "4431790",
+        "count" : "167"
+      }, {
+        "item" : "3781483",
+        "count" : "118"
+      }, {
+        "item" : "3164659236",
+        "count" : "75"
+      }, {
+        "item" : "3175860918",
+        "count" : "73"
+      }, {
+        "item" : "3102842445",
+        "count" : "73"
+      }, {
+        "item" : "6466060",
+        "count" : "68"
+      }, {
+        "item" : "2891100",
+        "count" : "55"
+      }, {
+        "item" : "4480030 - 4480700",
+        "count" : "54"
+      }, {
+        "item" : "7271556",
+        "count" : "54"
+      }, {
+        "item" : "0",
+        "count" : "51"
+      }, {
+        "item" : "3115404052",
+        "count" : "51"
+      }, {
+        "item" : "4851717 EXT 1026 -1005 celular 3157315830",
+        "count" : "48"
+      }, {
+        "item" : "4860033",
+        "count" : "44"
+      }, {
+        "item" : "927271556",
+        "count" : "43"
+      }, {
+        "item" : "(57-1)5938860 EXT. 7041",
+        "count" : "43"
+      }, {
+        "item" : "3607080",
+        "count" : "43"
+      }, {
+        "item" : "7798043",
+        "count" : "38"
+      }, {
+        "item" : "3008746262",
+        "count" : "37"
+      }, {
+        "item" : "3102349354",
+        "count" : "37"
+      }, {
+        "item" : "57 1 4285088",
+        "count" : "36"
+      } ],
+      "smallest" : "0",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887738,
+    "name" : "nom grupo capacidad ",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "nom_grupo_capacidad",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 48927715,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "UNIDAD MOVIL",
+      "null" : "0",
+      "top" : [ {
+        "item" : "CONSULTORIOS",
+        "count" : "16053"
+      }, {
+        "item" : "SALAS",
+        "count" : "7597"
+      }, {
+        "item" : "CAMAS",
+        "count" : "6738"
+      }, {
+        "item" : "AMBULANCIAS",
+        "count" : "5340"
+      }, {
+        "item" : "CAMILLAS",
+        "count" : "4409"
+      }, {
+        "item" : "UNIDAD MOVIL",
+        "count" : "694"
+      }, {
+        "item" : "SILLAS",
+        "count" : "596"
+      } ],
+      "smallest" : "AMBULANCIAS",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887739,
+    "name" : "nom descripcion capacidad ",
+    "dataTypeName" : "text",
+    "description" : "",
+    "fieldName" : "nom_descripcion_capacidad",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 48927716,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "Urgencias",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Consulta Externa",
+        "count" : "14532"
+      }, {
+        "item" : "Procedimientos",
+        "count" : "5114"
+      }, {
+        "item" : "Básica",
+        "count" : "4135"
+      }, {
+        "item" : "Adultos",
+        "count" : "1616"
+      }, {
+        "item" : "Urgencias",
+        "count" : "1521"
+      }, {
+        "item" : "Observación Adultos Hombres",
+        "count" : "1493"
+      }, {
+        "item" : "Observación Adultos Mujeres",
+        "count" : "1493"
+      }, {
+        "item" : "Observación Pediátrica",
+        "count" : "1301"
+      }, {
+        "item" : "Pediátrica",
+        "count" : "1206"
+      }, {
+        "item" : "Medicalizada",
+        "count" : "1205"
+      }, {
+        "item" : "Sala de Cirugía",
+        "count" : "1162"
+      }, {
+        "item" : "Partos",
+        "count" : "1118"
+      }, {
+        "item" : "TPR",
+        "count" : "714"
+      }, {
+        "item" : "Unidad Móvil",
+        "count" : "694"
+      }, {
+        "item" : "Intermedia Adultos",
+        "count" : "380"
+      }, {
+        "item" : "Intensiva Adultos",
+        "count" : "356"
+      }, {
+        "item" : "Sillas de Hemodiálisis",
+        "count" : "214"
+      }, {
+        "item" : "Salud Mental Adulto",
+        "count" : "201"
+      }, {
+        "item" : "Sillas de Quimioterapia",
+        "count" : "193"
+      }, {
+        "item" : "Incubadora Intensiva Neonatal",
+        "count" : "185"
+      } ],
+      "smallest" : "Adultos",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887740,
+    "name" : "num cantidad capacidad instalada",
+    "dataTypeName" : "number",
+    "description" : "",
+    "fieldName" : "num_cantidad_capacidad_instalada",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 48927717,
+    "width" : 484,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "1000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "1",
+        "count" : "19663"
+      }, {
+        "item" : "2",
+        "count" : "5223"
+      }, {
+        "item" : "3",
+        "count" : "3205"
+      }, {
+        "item" : "4",
+        "count" : "2724"
+      }, {
+        "item" : "5",
+        "count" : "1864"
+      }, {
+        "item" : "6",
+        "count" : "1469"
+      }, {
+        "item" : "7",
+        "count" : "914"
+      }, {
+        "item" : "8",
+        "count" : "870"
+      }, {
+        "item" : "10",
+        "count" : "748"
+      }, {
+        "item" : "9",
+        "count" : "512"
+      }, {
+        "item" : "12",
+        "count" : "405"
+      }, {
+        "item" : "11",
+        "count" : "338"
+      }, {
+        "item" : "13",
+        "count" : "274"
+      }, {
+        "item" : "15",
+        "count" : "274"
+      }, {
+        "item" : "14",
+        "count" : "243"
+      }, {
+        "item" : "20",
+        "count" : "226"
+      }, {
+        "item" : "16",
+        "count" : "193"
+      }, {
+        "item" : "18",
+        "count" : "188"
+      }, {
+        "item" : "17",
+        "count" : "132"
+      }, {
+        "item" : "24",
+        "count" : "115"
+      } ],
+      "smallest" : "1",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887741,
+    "name" : "Fecha Corte",
+    "dataTypeName" : "text",
+    "description" : "Fecha Corte",
+    "fieldName" : "fecha_corte",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378392,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "Fecha corte REPS: Nov  5 2022  1:37PM",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Fecha corte REPS: Nov  5 2022  1:37PM",
+        "count" : "41427"
+      } ],
+      "smallest" : "Fecha corte REPS: Nov  5 2022  1:37PM",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  }, {
+    "id" : 535887742,
+    "name" : "Fuente",
+    "dataTypeName" : "text",
+    "description" : "Fuente",
+    "fieldName" : "fuente",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 122378386,
+    "cachedContents" : {
+      "non_null" : "41427",
+      "largest" : "Base de datos Registro Especial de Prestadores de Servicios de Salud - REPS.",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Base de datos Registro Especial de Prestadores de Servicios de Salud - REPS.",
+        "count" : "41427"
+      } ],
+      "smallest" : "Base de datos Registro Especial de Prestadores de Servicios de Salud - REPS.",
+      "count" : "41427",
+      "cardinality" : "41427"
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "Creative Commons Attribution | Share Alike 4.0 International",
+    "logoUrl" : "images/licenses/cc30bysa.png",
+    "termsLink" : "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "metadata" : {
+    "custom_fields" : {
+      "Información de la Entidad" : {
+        "Municipio" : "Bogotá D.C.",
+        "Nombre de la Entidad" : "Ministerio de Salud y Protección Social - MinSalud, Bogotá D.C.",
+        "DIVIPOLA Municipio" : "11001",
+        "Orden" : "Nacional",
+        "Sector" : "Salud",
+        "Departamento" : "Bogotá D.C."
+      },
+      "Información de Datos" : {
+        "Cobertura Geográfica" : "Nacional",
+        "Idioma" : "Español",
+        "Frecuencia de Actualización" : "Anual"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "e8g4-ac65",
+    "displayName" : "Minsalud",
+    "profileImageUrlLarge" : "/api/users/e8g4-ac65/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/e8g4-ac65/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/e8g4-ac65/profile_images/TINY",
+    "screenName" : "Minsalud",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8g4-ac65",
+    "displayName" : "Minsalud",
+    "profileImageUrlLarge" : "/api/users/e8g4-ac65/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/e8g4-ac65/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/e8g4-ac65/profile_images/TINY",
+    "screenName" : "Minsalud",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "ips", "nivel de atención", "minsalud" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

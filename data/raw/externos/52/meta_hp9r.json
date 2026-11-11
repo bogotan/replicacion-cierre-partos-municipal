@@ -1,0 +1,1375 @@
+{
+  "id" : "hp9r-jxuu",
+  "name" : "Catálogo Nacional de Estaciones del IDEAM",
+  "assetType" : "dataset",
+  "attribution" : "Instituto de Hidrología, Meteorología y Estudios Ambientales - IDEAM, Bogotá D.C.",
+  "attributionLink" : "https://www.ideam.gov.co/",
+  "averageRating" : 0,
+  "category" : "Ambiente y Desarrollo Sostenible",
+  "createdAt" : 1476908916,
+  "description" : "Este dataset relaciona la información de las estaciones hidrometeorológicas de propiedad del IDEAM y de otras entidades: contiene nombre de la estación, código, tipo, categoría, localización, entre otros.\n\nLos datos disponibles a través de este medio pueden ser libremente consumidos bajo las siguientes cláusulas: 1. Los datos a visualizar o descargar a continuación no han sido validados por el IDEAM. 2. Los datos aquí dispuestos son datos crudos instantáneos provenientes de los sensores de las estaciones automáticas de la red propia y/o producto de convenios interadministrativos con terceras entidades. 3. Los datos son puestos a disposición de la ciudadanía como mecanismo de transparencia y para proveer una herramienta de apoyo a la gestión del riesgo territorial y como datos abiertos en cumplimiento de la Ley 1712 de 2014. 4. Es posible que los datos aquí dispuestos tengan cierto retraso en el tiempo debido a las frecuencias de envío de datos de los sensores y los medios de transmisión utilizados. 5. Los datos presenten errores y/o inconsistencias estando incluso por fuera de los límites considerados normales, producto de fallas en los sensores de origen. 6. El posterior uso e interpretación que se le dé para cualquier finalidad queda bajo la exclusiva responsabilidad del portador de los datos. 7. Cualquier destino que se le dé a los datos exime al IDEAM de realizarles cualquier tipo de justificación o iniciarles proceso alguno de validación posterior, cuya fuente primaria deben ser los canales oficialmente dispuestos por la Entidad para el suministro de información oficial y validada. 8. Por las razones expuestas anteriormente los datos dispuestos no podrán ser utilizados como evidencia jurídica ante entes de control acerca de la ocurrencia o no de fenómenos hidroclimatológicos o de soporte a cualquier tipo de situación o evento ocurrido como consecuencia de estos.",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 28353,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "licenseId" : "CC_40_BY_SA",
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 41637352,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1758570359,
+  "publicationGroup" : 13860383,
+  "publicationStage" : "published",
+  "resourceName" : "catalogoestaciones",
+  "rowsUpdatedAt" : 1792762792,
+  "rowsUpdatedBy" : "xac7-ivuv",
+  "tableId" : 20101590,
+  "totalTimesRated" : 0,
+  "viewCount" : 202365,
+  "viewLastModified" : 1779375221,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1550844756,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 7131993,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1550844756,
+    "targetAudience" : "public",
+    "workflowId" : 2188,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "failureCount" : 0,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "m4ij-zc9b",
+      "displayName" : "Instituto de Hidrología, Meteorología y Estudios Ambientales"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 617933208,
+    "name" : "Codigo",
+    "dataTypeName" : "text",
+    "description" : "Corresponde al valor de identificación de la estación dentro del catálogo de estaciones",
+    "fieldName" : "codigo",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375961,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "5311700154",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0052035030",
+        "count" : "1"
+      }, {
+        "item" : "2702000001",
+        "count" : "1"
+      }, {
+        "item" : "0026190150",
+        "count" : "1"
+      }, {
+        "item" : "0021201650",
+        "count" : "1"
+      }, {
+        "item" : "0021190390",
+        "count" : "1"
+      }, {
+        "item" : "0035080120",
+        "count" : "1"
+      }, {
+        "item" : "0011125010",
+        "count" : "1"
+      }, {
+        "item" : "0021209860",
+        "count" : "1"
+      }, {
+        "item" : "0026240090",
+        "count" : "1"
+      }, {
+        "item" : "0035197100",
+        "count" : "1"
+      }, {
+        "item" : "0026077110",
+        "count" : "1"
+      }, {
+        "item" : "3522500312",
+        "count" : "1"
+      }, {
+        "item" : "0026125710",
+        "count" : "1"
+      }, {
+        "item" : "0035097140",
+        "count" : "1"
+      }, {
+        "item" : "0026120330",
+        "count" : "1"
+      }, {
+        "item" : "2319500129",
+        "count" : "1"
+      }, {
+        "item" : "0026065050",
+        "count" : "1"
+      }, {
+        "item" : "0032040020",
+        "count" : "1"
+      }, {
+        "item" : "0035075100",
+        "count" : "1"
+      }, {
+        "item" : "0027017640",
+        "count" : "1"
+      } ],
+      "smallest" : "0011010010",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933209,
+    "name" : "Nombre",
+    "dataTypeName" : "text",
+    "description" : "Corresponde a la identificación de la estación dentro del catálogo de estaciones, tambien lleva el codigo de la estacion",
+    "fieldName" : "nombre",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375962,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "ZUSNE  [23067150]",
+      "null" : "0",
+      "top" : [ {
+        "item" : "PUENTE HOLGUIN [35067050]",
+        "count" : "1"
+      }, {
+        "item" : "LOURDES [16030080]",
+        "count" : "1"
+      }, {
+        "item" : "MERCEDES LAS  [21208170]",
+        "count" : "1"
+      }, {
+        "item" : "LA CARO - AUT [2120500733]",
+        "count" : "1"
+      }, {
+        "item" : "BETANIA  [21195020]",
+        "count" : "1"
+      }, {
+        "item" : "BETE [11050020]",
+        "count" : "1"
+      }, {
+        "item" : "COMPUERTAS [29037220]",
+        "count" : "1"
+      }, {
+        "item" : "SUECIA LA  [23027030]",
+        "count" : "1"
+      }, {
+        "item" : "ALTO DEL VINO [2306500204]",
+        "count" : "1"
+      }, {
+        "item" : "TIGRE EL [26127080]",
+        "count" : "1"
+      }, {
+        "item" : "CALDERA LA [16020110]",
+        "count" : "1"
+      }, {
+        "item" : "REPRESA SISGA  [21208510]",
+        "count" : "1"
+      }, {
+        "item" : "ENVIGADO - EL SALADO - AUT  [2701700023]",
+        "count" : "1"
+      }, {
+        "item" : "PAUJIL  - AUT  [44035501]",
+        "count" : "1"
+      }, {
+        "item" : "SAN LUIS  [23080160]",
+        "count" : "1"
+      }, {
+        "item" : "LA ESPERANZA [21201140]",
+        "count" : "1"
+      }, {
+        "item" : "SANTA LETICIA [21050270]",
+        "count" : "1"
+      }, {
+        "item" : "CACOTA [37010030]",
+        "count" : "1"
+      }, {
+        "item" : "Z-5 [16027260]",
+        "count" : "1"
+      }, {
+        "item" : "GUANATA [21205890]",
+        "count" : "1"
+      } ],
+      "smallest" : "ABAJO [26027110]",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933210,
+    "name" : "Categoria",
+    "dataTypeName" : "text",
+    "description" : "Indica la categoría de la estación de medición de acuerdo con su clase",
+    "fieldName" : "categoria",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375964,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Sinóptica Secundaria",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Pluviométrica",
+        "count" : "3910"
+      }, {
+        "item" : "Limnimétrica",
+        "count" : "2001"
+      }, {
+        "item" : "Limnigráfica",
+        "count" : "1134"
+      }, {
+        "item" : "Climatológica Ordinaria",
+        "count" : "975"
+      }, {
+        "item" : "Climatológica Principal",
+        "count" : "828"
+      }, {
+        "item" : "Pluviográfica",
+        "count" : "584"
+      }, {
+        "item" : "Meteorológica Especial",
+        "count" : "226"
+      }, {
+        "item" : "Agrometeorológica",
+        "count" : "129"
+      }, {
+        "item" : "Meteorológica Marina",
+        "count" : "51"
+      }, {
+        "item" : "Sinóptica Principal",
+        "count" : "35"
+      }, {
+        "item" : "Radio Sonda",
+        "count" : "14"
+      }, {
+        "item" : "Sinóptica Secundaria",
+        "count" : "14"
+      }, {
+        "item" : "Ambiental",
+        "count" : "7"
+      }, {
+        "item" : "HidroMeteorológica",
+        "count" : "6"
+      } ],
+      "smallest" : "Agrometeorológica",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933211,
+    "name" : "Tecnologia",
+    "dataTypeName" : "text",
+    "description" : "Corresponde a los tipos de estaciones de medición: convencional, automática con telemetría, automática sin telemetría",
+    "fieldName" : "tecnologia",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 77136021,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Convencional",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Convencional",
+        "count" : "7560"
+      }, {
+        "item" : "Automática con Telemetría",
+        "count" : "1761"
+      }, {
+        "item" : "Automática con Telemetría, Convencional",
+        "count" : "455"
+      }, {
+        "item" : "Automática sin Telemetría",
+        "count" : "137"
+      }, {
+        "item" : "Automática sin Telemetría, Convencional",
+        "count" : "1"
+      } ],
+      "smallest" : "Automática con Telemetría",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933212,
+    "name" : "Estado",
+    "dataTypeName" : "text",
+    "description" : "Indica las condiciones de funcionamiento en las que actualmente se encuentra la estación de medición",
+    "fieldName" : "estado",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375965,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Suspendida",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Activa",
+        "count" : "5655"
+      }, {
+        "item" : "Suspendida",
+        "count" : "3893"
+      }, {
+        "item" : "En Mantenimiento",
+        "count" : "366"
+      } ],
+      "smallest" : "Activa",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933213,
+    "name" : "Departamento",
+    "dataTypeName" : "text",
+    "description" : "Nombre del departamento donde se ubica la estación",
+    "fieldName" : "departamento",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375966,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Vichada",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Antioquia",
+        "count" : "1535"
+      }, {
+        "item" : "Cundinamarca",
+        "count" : "1149"
+      }, {
+        "item" : "Valle Del Cauca",
+        "count" : "838"
+      }, {
+        "item" : "Boyacá",
+        "count" : "551"
+      }, {
+        "item" : "Santander",
+        "count" : "541"
+      }, {
+        "item" : "Tolima",
+        "count" : "510"
+      }, {
+        "item" : "Caldas",
+        "count" : "445"
+      }, {
+        "item" : "Cauca",
+        "count" : "391"
+      }, {
+        "item" : "Huila",
+        "count" : "391"
+      }, {
+        "item" : "Bogotá",
+        "count" : "371"
+      }, {
+        "item" : "Bolivar",
+        "count" : "318"
+      }, {
+        "item" : "Norte De Santander",
+        "count" : "297"
+      }, {
+        "item" : "Cesar",
+        "count" : "277"
+      }, {
+        "item" : "La Guajira",
+        "count" : "259"
+      }, {
+        "item" : "Cordoba",
+        "count" : "232"
+      }, {
+        "item" : "Risaralda",
+        "count" : "222"
+      }, {
+        "item" : "Meta",
+        "count" : "221"
+      }, {
+        "item" : "Magdalena",
+        "count" : "202"
+      }, {
+        "item" : "Nariño",
+        "count" : "168"
+      }, {
+        "item" : "Atlantico",
+        "count" : "130"
+      } ],
+      "smallest" : "Amazonas",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933214,
+    "name" : "Municipio",
+    "dataTypeName" : "text",
+    "description" : "Nombre del Municipio donde se localiza la estación",
+    "fieldName" : "municipio",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375967,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Zona Bananera",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Bogotá, D.C",
+        "count" : "371"
+      }, {
+        "item" : "Medellín",
+        "count" : "176"
+      }, {
+        "item" : "Manizales",
+        "count" : "103"
+      }, {
+        "item" : "Palmira",
+        "count" : "93"
+      }, {
+        "item" : "Cali",
+        "count" : "88"
+      }, {
+        "item" : "Cúcuta",
+        "count" : "83"
+      }, {
+        "item" : "Valledupar",
+        "count" : "82"
+      }, {
+        "item" : "Pereira",
+        "count" : "68"
+      }, {
+        "item" : "Rionegro",
+        "count" : "66"
+      }, {
+        "item" : "Buenaventura",
+        "count" : "63"
+      }, {
+        "item" : "Uribia",
+        "count" : "59"
+      }, {
+        "item" : "Santa Marta",
+        "count" : "59"
+      }, {
+        "item" : "Guasca",
+        "count" : "55"
+      }, {
+        "item" : "Ibagué",
+        "count" : "53"
+      }, {
+        "item" : "Santa Rosa De Cabal",
+        "count" : "53"
+      }, {
+        "item" : "Aquitania",
+        "count" : "51"
+      }, {
+        "item" : "María La Baja",
+        "count" : "49"
+      }, {
+        "item" : "Agustín Codazzi",
+        "count" : "49"
+      }, {
+        "item" : "Fómeque",
+        "count" : "48"
+      }, {
+        "item" : "Montería",
+        "count" : "48"
+      } ],
+      "smallest" : "Abejorral",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933215,
+    "name" : "Ubicación",
+    "dataTypeName" : "location",
+    "description" : "Corresponde a la latitud y longitud en la cual se encuentra la estación.",
+    "fieldName" : "ubicaci_n",
+    "position" : 8,
+    "renderTypeName" : "location",
+    "tableColumnId" : 39375969,
+    "width" : 208,
+    "format" : { }
+  }, {
+    "id" : 617933216,
+    "name" : "Altitud",
+    "dataTypeName" : "number",
+    "description" : "Indica el valor de la altura sobre el nivel del mar de la estación de medición",
+    "fieldName" : "altitud",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 39375970,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "5072",
+      "null" : "0",
+      "top" : [ {
+        "item" : "20",
+        "count" : "131"
+      }, {
+        "item" : "1000",
+        "count" : "102"
+      }, {
+        "item" : "100",
+        "count" : "98"
+      }, {
+        "item" : "1500",
+        "count" : "95"
+      }, {
+        "item" : "50",
+        "count" : "81"
+      }, {
+        "item" : "2600",
+        "count" : "79"
+      }, {
+        "item" : "10",
+        "count" : "74"
+      }, {
+        "item" : "1200",
+        "count" : "68"
+      }, {
+        "item" : "2500",
+        "count" : "66"
+      }, {
+        "item" : "150",
+        "count" : "63"
+      }, {
+        "item" : "1400",
+        "count" : "63"
+      }, {
+        "item" : "25",
+        "count" : "57"
+      }, {
+        "item" : "500",
+        "count" : "57"
+      }, {
+        "item" : "60",
+        "count" : "57"
+      }, {
+        "item" : "200",
+        "count" : "54"
+      }, {
+        "item" : "0",
+        "count" : "53"
+      }, {
+        "item" : "1100",
+        "count" : "53"
+      }, {
+        "item" : "400",
+        "count" : "52"
+      }, {
+        "item" : "1700",
+        "count" : "51"
+      }, {
+        "item" : "5",
+        "count" : "51"
+      } ],
+      "smallest" : "0",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933229,
+    "name" : "LONGITUD",
+    "dataTypeName" : "number",
+    "description" : "Corresponde a la coordenada longitud en grados, minutos, segundos y dirección (O) Deben estar en sistema Magna Sirgas ",
+    "fieldName" : "longitud",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 161954308,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "-66.83333333",
+      "null" : "0",
+      "top" : [ {
+        "item" : "-75.5",
+        "count" : "43"
+      }, {
+        "item" : "-76.26666667",
+        "count" : "40"
+      }, {
+        "item" : "-75.3",
+        "count" : "40"
+      }, {
+        "item" : "-75.7",
+        "count" : "39"
+      }, {
+        "item" : "-75.66666667",
+        "count" : "39"
+      }, {
+        "item" : "-75.51666667",
+        "count" : "39"
+      }, {
+        "item" : "-76.3",
+        "count" : "39"
+      }, {
+        "item" : "-75.56666667",
+        "count" : "38"
+      }, {
+        "item" : "-74.06666667",
+        "count" : "38"
+      }, {
+        "item" : "-75.03333333",
+        "count" : "37"
+      }, {
+        "item" : "-75.43333333",
+        "count" : "36"
+      }, {
+        "item" : "-75.55",
+        "count" : "36"
+      }, {
+        "item" : "-74.13333333",
+        "count" : "35"
+      }, {
+        "item" : "-75.63333333",
+        "count" : "35"
+      }, {
+        "item" : "-74.16666667",
+        "count" : "34"
+      }, {
+        "item" : "-75.26666667",
+        "count" : "33"
+      }, {
+        "item" : "-75.6",
+        "count" : "33"
+      }, {
+        "item" : "-75.33333333",
+        "count" : "32"
+      }, {
+        "item" : "-76.25",
+        "count" : "32"
+      }, {
+        "item" : "-76.2",
+        "count" : "32"
+      } ],
+      "smallest" : "-83.05619444",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933230,
+    "name" : "LATITUD",
+    "dataTypeName" : "number",
+    "description" : "Corresponde a la coordenada latitud en grados, minutos, segundos  y dirección (N/S)  Deben estar en sistema Magna Sirgas ",
+    "fieldName" : "latitud",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 161954309,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "15.7975",
+      "null" : "0",
+      "top" : [ {
+        "item" : "4.683333333",
+        "count" : "40"
+      }, {
+        "item" : "4.6",
+        "count" : "38"
+      }, {
+        "item" : "4.7",
+        "count" : "38"
+      }, {
+        "item" : "4.783333333",
+        "count" : "38"
+      }, {
+        "item" : "4.8",
+        "count" : "36"
+      }, {
+        "item" : "5.083333333",
+        "count" : "35"
+      }, {
+        "item" : "4.866666667",
+        "count" : "35"
+      }, {
+        "item" : "4.633333333",
+        "count" : "33"
+      }, {
+        "item" : "4.966666667",
+        "count" : "33"
+      }, {
+        "item" : "4.616666667",
+        "count" : "33"
+      }, {
+        "item" : "6.25",
+        "count" : "33"
+      }, {
+        "item" : "4.716666667",
+        "count" : "32"
+      }, {
+        "item" : "4.516666667",
+        "count" : "31"
+      }, {
+        "item" : "4.533333333",
+        "count" : "30"
+      }, {
+        "item" : "4.85",
+        "count" : "29"
+      }, {
+        "item" : "5.033333333",
+        "count" : "29"
+      }, {
+        "item" : "4.666666667",
+        "count" : "28"
+      }, {
+        "item" : "4.466666667",
+        "count" : "28"
+      }, {
+        "item" : "5",
+        "count" : "27"
+      }, {
+        "item" : "4.35",
+        "count" : "27"
+      } ],
+      "smallest" : "-4.283333333",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933218,
+    "name" : "Fecha_instalacion",
+    "dataTypeName" : "text",
+    "description" : "Corresponde a la fecha de instalación de la estación de monitoreo",
+    "fieldName" : "fecha_instalacion",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375971,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : "9781",
+      "largest" : "31/12/2017",
+      "null" : "133",
+      "top" : [ {
+        "item" : "01/01/2001",
+        "count" : "86"
+      }, {
+        "item" : "01/07/2017",
+        "count" : "75"
+      }, {
+        "item" : "04/07/2018",
+        "count" : "74"
+      }, {
+        "item" : "15/01/1991",
+        "count" : "69"
+      }, {
+        "item" : "15/06/1983",
+        "count" : "56"
+      }, {
+        "item" : "15/01/1969",
+        "count" : "52"
+      }, {
+        "item" : "15/04/1971",
+        "count" : "51"
+      }, {
+        "item" : "15/01/1963",
+        "count" : "48"
+      }, {
+        "item" : "15/10/1970",
+        "count" : "47"
+      }, {
+        "item" : "15/01/1960",
+        "count" : "45"
+      }, {
+        "item" : "15/01/1922",
+        "count" : "45"
+      }, {
+        "item" : "15/06/1971",
+        "count" : "44"
+      }, {
+        "item" : "15/02/1971",
+        "count" : "44"
+      }, {
+        "item" : "15/08/1974",
+        "count" : "43"
+      }, {
+        "item" : "15/11/1974",
+        "count" : "42"
+      }, {
+        "item" : "15/01/1964",
+        "count" : "41"
+      }, {
+        "item" : "05/10/2016",
+        "count" : "41"
+      }, {
+        "item" : "15/01/1959",
+        "count" : "41"
+      }, {
+        "item" : "15/01/1971",
+        "count" : "40"
+      }, {
+        "item" : "04/07/2024",
+        "count" : "39"
+      } ],
+      "smallest" : "01/01/2001",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 617933220,
+    "name" : "Fecha_suspension",
+    "dataTypeName" : "text",
+    "description" : "Fecha en la cual la estación fue suspendida",
+    "fieldName" : "fecha_suspension",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375972,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : "3845",
+      "largest" : "31/12/2019",
+      "null" : "6069",
+      "top" : [ {
+        "item" : "07/09/2026",
+        "count" : "141"
+      }, {
+        "item" : "15/02/2002",
+        "count" : "93"
+      }, {
+        "item" : "15/07/1981",
+        "count" : "49"
+      }, {
+        "item" : "28/08/2014",
+        "count" : "42"
+      }, {
+        "item" : "15/01/1990",
+        "count" : "40"
+      }, {
+        "item" : "15/12/1967",
+        "count" : "36"
+      }, {
+        "item" : "15/01/1991",
+        "count" : "34"
+      }, {
+        "item" : "15/12/1969",
+        "count" : "34"
+      }, {
+        "item" : "15/12/1966",
+        "count" : "32"
+      }, {
+        "item" : "15/12/1986",
+        "count" : "27"
+      }, {
+        "item" : "15/03/2002",
+        "count" : "25"
+      }, {
+        "item" : "15/12/1958",
+        "count" : "23"
+      }, {
+        "item" : "15/04/2002",
+        "count" : "21"
+      }, {
+        "item" : "15/09/2005",
+        "count" : "21"
+      }, {
+        "item" : "19/06/2018",
+        "count" : "20"
+      }, {
+        "item" : "02/07/2019",
+        "count" : "20"
+      }, {
+        "item" : "15/09/1971",
+        "count" : "20"
+      }, {
+        "item" : "15/12/1970",
+        "count" : "19"
+      }, {
+        "item" : "15/10/1971",
+        "count" : "19"
+      }, {
+        "item" : "28/09/2026",
+        "count" : "19"
+      } ],
+      "smallest" : "01/01/2011",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 617933222,
+    "name" : "Area Operativa",
+    "dataTypeName" : "text",
+    "description" : "Área operativa ",
+    "fieldName" : "area_operativa",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 77136023,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Area Operativa 11 - Cundinamarca-Amazonas",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Area Operativa 09 - Cauca-Valle-Caldas",
+        "count" : "1774"
+      }, {
+        "item" : "Area Operativa 01 - Antioquia-Chocó",
+        "count" : "1622"
+      }, {
+        "item" : "Area Operativa 11 - Cundinamarca-Amazonas",
+        "count" : "1481"
+      }, {
+        "item" : "Area Operativa 08 - Santanderes-Arauca",
+        "count" : "950"
+      }, {
+        "item" : "Area Operativa 02 - Atlántico-Bolivar-Sucre",
+        "count" : "741"
+      }, {
+        "item" : "Area Operativa 10 - Tolima",
+        "count" : "735"
+      }, {
+        "item" : "Area Operativa 05 - Magdalena-Cesar-Guajira-San Andrés",
+        "count" : "701"
+      }, {
+        "item" : "Area Operativa 06 - Boyacá-Casanare-Vichada",
+        "count" : "634"
+      }, {
+        "item" : "Area Operativa 04 - Huila-Caquetá",
+        "count" : "483"
+      }, {
+        "item" : "Area Operativa 07 - Nariño-Putumayo",
+        "count" : "405"
+      }, {
+        "item" : "Area Operativa 03 - Meta-Guaviare-Guainía",
+        "count" : "388"
+      } ],
+      "smallest" : "Area Operativa 01 - Antioquia-Chocó",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933224,
+    "name" : "Corriente",
+    "dataTypeName" : "text",
+    "description" : "Corriente sobre la cual está ubicada la estación",
+    "fieldName" : "corriente",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 39375968,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : "3215",
+      "largest" : "ZUNGO",
+      "null" : "6699",
+      "top" : [ {
+        "item" : "MAGDALENA",
+        "count" : "114"
+      }, {
+        "item" : "CAUCA",
+        "count" : "79"
+      }, {
+        "item" : "BOGOTÁ",
+        "count" : "77"
+      }, {
+        "item" : "NEGRO",
+        "count" : "34"
+      }, {
+        "item" : "CAQUETÁ",
+        "count" : "33"
+      }, {
+        "item" : "CANAL DEL DIQUE",
+        "count" : "27"
+      }, {
+        "item" : "META",
+        "count" : "25"
+      }, {
+        "item" : "SUÁREZ",
+        "count" : "24"
+      }, {
+        "item" : "SINÚ",
+        "count" : "23"
+      }, {
+        "item" : "PUTUMAYO",
+        "count" : "23"
+      }, {
+        "item" : "MAR CARIBE",
+        "count" : "22"
+      }, {
+        "item" : "CHICAMOCHA",
+        "count" : "21"
+      }, {
+        "item" : "SAN JUAN",
+        "count" : "21"
+      }, {
+        "item" : "RÍO CAUCA",
+        "count" : "21"
+      }, {
+        "item" : "FRÍO",
+        "count" : "19"
+      }, {
+        "item" : "COELLO",
+        "count" : "18"
+      }, {
+        "item" : "GUAVIARE",
+        "count" : "18"
+      }, {
+        "item" : "MOCOA",
+        "count" : "18"
+      }, {
+        "item" : "SUMAPAZ",
+        "count" : "18"
+      }, {
+        "item" : "NECHÍ",
+        "count" : "17"
+      } ],
+      "smallest" : "ABREITO",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933225,
+    "name" : "Area Hidrografica",
+    "dataTypeName" : "text",
+    "description" : "Area hidrografica sobre la cual está ubicada la estación",
+    "fieldName" : "area_hidrografica",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 77136018,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Pacifico",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Magdalena Cauca",
+        "count" : "7088"
+      }, {
+        "item" : "Caribe",
+        "count" : "1059"
+      }, {
+        "item" : "Orinoco",
+        "count" : "991"
+      }, {
+        "item" : "Pacifico",
+        "count" : "498"
+      }, {
+        "item" : "Amazonas",
+        "count" : "278"
+      } ],
+      "smallest" : "Amazonas",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933226,
+    "name" : "Zona Hidrografica",
+    "dataTypeName" : "text",
+    "description" : "Zona hidrografica sobre la cual está ubicada la estación",
+    "fieldName" : "zona_hidrografica",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 77136020,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "Yarí",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Cauca",
+        "count" : "1919"
+      }, {
+        "item" : "Alto Magdalena",
+        "count" : "1786"
+      }, {
+        "item" : "Medio Magdalena",
+        "count" : "1080"
+      }, {
+        "item" : "Meta",
+        "count" : "753"
+      }, {
+        "item" : "Sogamoso",
+        "count" : "645"
+      }, {
+        "item" : "Nechí",
+        "count" : "642"
+      }, {
+        "item" : "Bajo Magdalena",
+        "count" : "443"
+      }, {
+        "item" : "Caribe - Guajira",
+        "count" : "286"
+      }, {
+        "item" : "Cesar",
+        "count" : "285"
+      }, {
+        "item" : "Catatumbo",
+        "count" : "263"
+      }, {
+        "item" : "Patía",
+        "count" : "185"
+      }, {
+        "item" : "Sinú",
+        "count" : "179"
+      }, {
+        "item" : "Bajo Magdalena- Cauca -San Jorge",
+        "count" : "172"
+      }, {
+        "item" : "Atrato - Darién",
+        "count" : "161"
+      }, {
+        "item" : "San Juán",
+        "count" : "140"
+      }, {
+        "item" : "Caribe - Litoral",
+        "count" : "138"
+      }, {
+        "item" : "Caquetá",
+        "count" : "130"
+      }, {
+        "item" : "Tapaje - Dagua - Directos",
+        "count" : "121"
+      }, {
+        "item" : "Saldaña",
+        "count" : "116"
+      }, {
+        "item" : "Guaviare",
+        "count" : "108"
+      } ],
+      "smallest" : "Alto Magdalena",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933227,
+    "name" : "Subzona hidrografica",
+    "dataTypeName" : "text",
+    "description" : "Subzona hidrográfica sobre la cual está ubicada la estación",
+    "fieldName" : "subzona_hidrografica",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 77136022,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "San Andres",
+      "null" : "0",
+      "top" : [ {
+        "item" : "Río Bogotá",
+        "count" : "873"
+      }, {
+        "item" : "Río Porce",
+        "count" : "505"
+      }, {
+        "item" : "Río Nare",
+        "count" : "296"
+      }, {
+        "item" : "Río Suárez",
+        "count" : "291"
+      }, {
+        "item" : "Río Lebrija y otros directos al Magdalena",
+        "count" : "268"
+      }, {
+        "item" : "Río Chicamocha",
+        "count" : "243"
+      }, {
+        "item" : "Río La Vieja",
+        "count" : "173"
+      }, {
+        "item" : "Río Chinchiná",
+        "count" : "156"
+      }, {
+        "item" : "Bajo San Jorge - La Mojana",
+        "count" : "151"
+      }, {
+        "item" : "Río Otún y otros directos al Cauca",
+        "count" : "136"
+      }, {
+        "item" : "Medio Cesar",
+        "count" : "134"
+      }, {
+        "item" : "Río Guayuriba",
+        "count" : "131"
+      }, {
+        "item" : "Río Sumapaz",
+        "count" : "124"
+      }, {
+        "item" : "Directos Río Cauca  entre Río San Juan y  Pto Valdivia",
+        "count" : "122"
+      }, {
+        "item" : "Río Negro",
+        "count" : "118"
+      }, {
+        "item" : "Bajo Sinú",
+        "count" : "114"
+      }, {
+        "item" : "Canal del Dique margen izquierda",
+        "count" : "110"
+      }, {
+        "item" : "Río Lagunilla y Otros Directos al Magdalena",
+        "count" : "109"
+      }, {
+        "item" : "Río Ranchería",
+        "count" : "107"
+      }, {
+        "item" : "Río Garagoa",
+        "count" : "103"
+      } ],
+      "smallest" : "Alto Atrato",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  }, {
+    "id" : 617933228,
+    "name" : "Entidad",
+    "dataTypeName" : "text",
+    "description" : "Entidad propietaria de ls estación",
+    "fieldName" : "entidad",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 77136019,
+    "cachedContents" : {
+      "non_null" : "9914",
+      "largest" : "UNIVERSIDAD JORGE TADEO LOZANO",
+      "null" : "0",
+      "top" : [ {
+        "item" : "INSTITUTO DE HIDROLOGÍA METEOROLOGÍA Y ESTUDIOS AMBIENTALES",
+        "count" : "4522"
+      }, {
+        "item" : "FEDERACIÓN NACIONAL DE CAFETEROS",
+        "count" : "596"
+      }, {
+        "item" : "CORPORACION AUTONOMA REGIONAL DE CUNDINAMARCA",
+        "count" : "555"
+      }, {
+        "item" : "CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA",
+        "count" : "450"
+      }, {
+        "item" : "EMPRESAS PÚBLICAS DE MEDELLÍN E.S.P.",
+        "count" : "443"
+      }, {
+        "item" : "ESTACIONES PARTICULARES",
+        "count" : "441"
+      }, {
+        "item" : "EMPRESA DE ACUEDUCTO Y ALCANTARILLADO DE BOGOTÁ E.S.P",
+        "count" : "386"
+      }, {
+        "item" : "ÁREA METROPOLITANA DEL VALLE DE ABURRÁ",
+        "count" : "219"
+      }, {
+        "item" : "INSTITUTO COLOMBIANO DE LA REFORMA AGRARIA",
+        "count" : "195"
+      }, {
+        "item" : "MINISTERIO DE AGRICULTURA",
+        "count" : "189"
+      }, {
+        "item" : "INSTITUTO COLOMBIANO DE ENERGÍA ELÉCTRICA (ELECTRAGUAS)",
+        "count" : "149"
+      }, {
+        "item" : "CENTRAL HIDROELÉCTRICA DE CALDAS S.A.",
+        "count" : "134"
+      }, {
+        "item" : "CORPORACIÓN AUTÓNOMA REGIONAL DE ANTIOQUIA",
+        "count" : "126"
+      }, {
+        "item" : "CENTRO NACIONAL DE INVESTIGACIONES DE CAFÉ",
+        "count" : "104"
+      }, {
+        "item" : "INSTITUTO GEOGRÁFICO AGUSTÍN CODAZZI",
+        "count" : "98"
+      }, {
+        "item" : "ISAGÉN  S.A. E.S.P",
+        "count" : "94"
+      }, {
+        "item" : "CORPORACIÓN AUTÓNOMA REGIONAL DE CALDAS",
+        "count" : "82"
+      }, {
+        "item" : "CORPORACION AUTONOMA REGIONAL DE LOS VALLES DEL SINU Y DEL SAN JORGE",
+        "count" : "75"
+      }, {
+        "item" : "ESTADÍSTICA DEPARTAMENTAL DE ANTIOQUIA",
+        "count" : "71"
+      }, {
+        "item" : "MINISTERIO DE LA ECONOMÍA",
+        "count" : "69"
+      } ],
+      "smallest" : "ACUEDUCTO METROPOLITANO DE BUCARAMANGA",
+      "count" : "9914",
+      "cardinality" : "9914"
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "license" : {
+    "name" : "Creative Commons Attribution | Share Alike 4.0 International",
+    "logoUrl" : "images/licenses/cc30bysa.png",
+    "termsLink" : "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+  },
+  "metadata" : {
+    "custom_fields" : {
+      "Información de la Entidad" : {
+        "Municipio" : "Bogotá D.C.",
+        "Nombre de la Entidad" : "Instituto de Hidrología, Meteorología y Estudios Ambientales - IDEAM, Bogotá D.C.",
+        "DIVIPOLA Municipio" : "11001",
+        "Orden" : "Nacional",
+        "Sector" : "Ambiente y Desarrollo Sostenible",
+        "Área o dependencia" : "Subdirección de Hidrología",
+        "Departamento" : "Bogotá D.C."
+      },
+      "Información de Datos" : {
+        "Cobertura Geográfica" : "Nacional",
+        "Idioma" : "Español",
+        "Frecuencia de Actualización" : "Diaria"
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "xac7-ivuv",
+    "displayName" : "Oficina de Informática IDEAM",
+    "profileImageUrlLarge" : "/api/users/xac7-ivuv/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xac7-ivuv/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xac7-ivuv/profile_images/TINY",
+    "screenName" : "Oficina de Informática IDEAM",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xac7-ivuv",
+    "displayName" : "Oficina de Informática IDEAM",
+    "profileImageUrlLarge" : "/api/users/xac7-ivuv/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xac7-ivuv/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xac7-ivuv/profile_images/TINY",
+    "screenName" : "Oficina de Informática IDEAM",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "catálogo estaciones", "hidrometeorología", "ideam" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}

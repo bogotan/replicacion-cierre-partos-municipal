@@ -1,0 +1,16 @@
+{
+ "descripcion": "Completitud implícita del registro de defunciones en 2025, total y por grandes grupos de edad: defunciones registradas (EEVV) sobre defunciones esperadas con las tasas de mortalidad estimadas por el DANE (Estimaciones del cambio demográfico, base CNPV 2018) y la población proyectada. Cálculo del estudio 55 de Sinergística (script 35_completitud_cnpv2018.py del repositorio de Estadísticas Vitales); el DANE no la publica como completitud.",
+ "fuente_de_las_tasas": "DANE, Estimaciones del cambio demográfico: mortalidad (tasas específicas por edad simple y sexo), departamental 1985–2017 y nacional 2018–2070 (actualización del 30 de julio de 2025), base CNPV 2018.",
+ "archivo_de_origen": "output/tablas/completitud_cnpv2018.json (repositorio de Estadísticas Vitales de Sinergística, octubre de 2026)",
+ "sha256_archivo_de_origen": "2389241d5d7fe98edb017abf74ca7f7f8f0dc854d288c9f3280279c969ae1155",
+ "anio": 2025,
+ "registradas": 284210,
+ "esperadas": 355348,
+ "completitud": 0.8,
+ "por_edad": {
+  "menores de 5": 0.495,
+  "5 a 59": 0.848,
+  "60 y más": 0.798
+ },
+ "uso_en_el_articulo": "Sección 3.1: «las tasas estimadas por el DANE implican una completitud de 49,5 % en esas edades en 2025» (menores de 5 años)."
+}

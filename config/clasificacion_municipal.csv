@@ -1,0 +1,348 @@
+cod_mpio,departamento,municipio,pdet,zomac
+05002,Antioquia,Abejorral,no,si
+05004,Antioquia,Abriaquí,no,si
+05021,Antioquia,Alejandría,no,si
+05031,Antioquia,Amalfi,si,si
+05038,Antioquia,Angostura,no,si
+05040,Antioquia,Anorí,si,si
+05042,Antioquia,Santa Fe de Antioquia,no,si
+05045,Antioquia,Apartadó,si,si
+05055,Antioquia,Argelia,no,si
+05107,Antioquia,Briceño,si,si
+05120,Antioquia,Cáceres,si,si
+05125,Antioquia,Caicedo,no,si
+05134,Antioquia,Campamento,no,si
+05147,Antioquia,Carepa,si,si
+05154,Antioquia,Caucasia,si,si
+05172,Antioquia,Chigorodó,si,si
+05197,Antioquia,Cocorná,no,si
+05206,Antioquia,Concepción,no,si
+05234,Antioquia,Dabeiba,si,si
+05250,Antioquia,El Bagre,si,si
+05284,Antioquia,Frontino,no,si
+05313,Antioquia,Granada,no,si
+05315,Antioquia,Guadalupe,no,si
+05361,Antioquia,Ituango,si,si
+05467,Antioquia,Montebello,no,si
+05475,Antioquia,Murindó,si,si
+05480,Antioquia,Mutatá,si,si
+05483,Antioquia,Nariño,no,si
+05490,Antioquia,Necoclí,si,si
+05495,Antioquia,Nechí,si,si
+05579,Antioquia,Puerto Berrío,no,si
+05604,Antioquia,Remedios,si,si
+05642,Antioquia,Salgar,no,si
+05647,Antioquia,San Andrés de Cuerquía,no,si
+05649,Antioquia,San Carlos,no,si
+05652,Antioquia,San Francisco,no,si
+05660,Antioquia,San Luis,no,si
+05665,Antioquia,San Pedro de Urabá,si,si
+05667,Antioquia,San Rafael,no,si
+05690,Antioquia,Santo Domingo,no,si
+05736,Antioquia,Segovia,si,si
+05756,Antioquia,Sonsón,no,si
+05790,Antioquia,Tarazá,si,si
+05819,Antioquia,Toledo,no,si
+05837,Antioquia,Turbo,si,si
+05842,Antioquia,Uramita,no,si
+05847,Antioquia,Urrao,no,si
+05854,Antioquia,Valdivia,si,si
+05858,Antioquia,Vegachí,no,si
+05873,Antioquia,Vigía del Fuerte,si,si
+05885,Antioquia,Yalí,no,si
+05887,Antioquia,Yarumal,no,si
+05890,Antioquia,Yolombó,no,si
+05893,Antioquia,Yondó,si,si
+05895,Antioquia,Zaragoza,si,si
+13042,Bolívar,Arenal,si,si
+13160,Bolívar,Cantagallo,si,si
+13212,Bolívar,Córdoba,si,si
+13244,Bolívar,El Carmen de Bolívar,si,si
+13248,Bolívar,El Guamo,si,si
+13442,Bolívar,María La Baja,si,si
+13458,Bolívar,Montecristo,no,si
+13473,Bolívar,Morales,si,si
+13600,Bolívar,Río Viejo,no,si
+13654,Bolívar,San Jacinto,si,si
+13657,Bolívar,San Juan Nepomuceno,si,si
+13670,Bolívar,San Pablo,si,si
+13688,Bolívar,Santa Rosa del Sur,si,si
+13744,Bolívar,Simití,si,si
+13810,Bolívar,Tiquisio,no,si
+13894,Bolívar,Zambrano,si,si
+15236,Boyacá,Chivor,no,si
+15377,Boyacá,Labranzagrande,no,si
+15518,Boyacá,Pajarito,no,si
+15533,Boyacá,Paya,no,si
+15550,Boyacá,Pisba,no,si
+17042,Caldas,Anserma,no,si
+17088,Caldas,Belalcázar,no,si
+17446,Caldas,Marulanda,no,si
+17495,Caldas,Norcasia,no,si
+17524,Caldas,Palestina,no,si
+17541,Caldas,Pensilvania,no,si
+17614,Caldas,Riosucio,no,si
+17616,Caldas,Risaralda,no,si
+17662,Caldas,Samaná,no,si
+18001,Caquetá,Florencia,si,si
+18029,Caquetá,Albania,si,si
+18094,Caquetá,Belén de Los Andaquíes,si,si
+18150,Caquetá,Cartagena del Chairá,si,si
+18205,Caquetá,Curillo,si,si
+18247,Caquetá,El Doncello,si,si
+18256,Caquetá,El Paujil,si,si
+18410,Caquetá,La Montañita,si,si
+18460,Caquetá,Milán,si,si
+18479,Caquetá,Morelia,si,si
+18592,Caquetá,Puerto Rico,si,si
+18610,Caquetá,San José del Fragua,si,si
+18753,Caquetá,San Vicente del Caguán,si,si
+18756,Caquetá,Solano,si,si
+18785,Caquetá,Solita,si,si
+18860,Caquetá,Valparaíso,si,si
+19050,Cauca,Argelia,si,si
+19075,Cauca,Balboa,si,si
+19110,Cauca,Buenos Aires,si,si
+19130,Cauca,Cajibío,si,si
+19137,Cauca,Caldono,si,si
+19142,Cauca,Caloto,si,si
+19212,Cauca,Corinto,si,si
+19256,Cauca,El Tambo,si,si
+19290,Cauca,Florencia,no,si
+19318,Cauca,Guapí,si,si
+19364,Cauca,Jambaló,si,si
+19418,Cauca,López de Micay,si,si
+19450,Cauca,Mercaderes,si,si
+19455,Cauca,Miranda,si,si
+19473,Cauca,Morales,si,si
+19532,Cauca,Patía,si,si
+19533,Cauca,Piamonte,no,si
+19548,Cauca,Piendamó,si,si
+19698,Cauca,Santander de Quilichao,si,si
+19701,Cauca,Santa Rosa,no,si
+19780,Cauca,Suárez,si,si
+19809,Cauca,Timbiquí,si,si
+19821,Cauca,Toribío,si,si
+20001,Cesar,Valledupar,si,no
+20011,Cesar,Aguachica,no,si
+20013,Cesar,Agustín Codazzi,si,si
+20045,Cesar,Becerril,si,si
+20060,Cesar,Bosconia,no,si
+20178,Cesar,Chiriguaná,no,si
+20228,Cesar,Curumaní,no,si
+20238,Cesar,El Copey,no,si
+20383,Cesar,La Gloria,no,si
+20400,Cesar,La Jagua de Ibirico,si,si
+20443,Cesar,Manaure Balcón del Cesar,si,si
+20517,Cesar,Pailitas,no,si
+20550,Cesar,Pelaya,no,si
+20570,Cesar,Pueblo Bello,si,si
+20621,Cesar,La Paz,si,si
+20750,Cesar,San Diego,si,si
+23466,Córdoba,Montelíbano,si,si
+23580,Córdoba,Puerto Libertador,si,si
+23682,Córdoba,San José de Uré,si,si
+23807,Córdoba,Tierralta,si,si
+23855,Córdoba,Valencia,si,si
+25120,Cundinamarca,Cabrera,no,si
+25168,Cundinamarca,Chaguaní,no,si
+25258,Cundinamarca,El Peñón,no,si
+25328,Cundinamarca,Guayabal de Síquima,no,si
+25335,Cundinamarca,Guayabetal,no,si
+25394,Cundinamarca,La Palma,no,si
+25438,Cundinamarca,Medina,no,si
+25530,Cundinamarca,Paratebueno,no,si
+25580,Cundinamarca,Pulí,no,si
+25743,Cundinamarca,Silvania,no,si
+25823,Cundinamarca,Topaipí,no,si
+25878,Cundinamarca,Viotá,no,si
+27001,Chocó,Quibdó,no,si
+27006,Chocó,Acandí,si,si
+27073,Chocó,Bagadó,no,si
+27077,Chocó,Bajo Baudó,no,si
+27099,Chocó,Bojayá,si,si
+27150,Chocó,Carmen del Darién,si,si
+27205,Chocó,Condoto,si,si
+27245,Chocó,El Carmen de Atrato,no,si
+27250,Chocó,El Litoral del San Juan,si,si
+27361,Chocó,Istmina,si,si
+27425,Chocó,Medio Atrato,si,si
+27450,Chocó,Medio San Juan,si,si
+27491,Chocó,Nóvita,si,si
+27615,Chocó,Riosucio,si,si
+27660,Chocó,San José del Palmar,no,si
+27745,Chocó,Sipí,si,si
+27787,Chocó,Tadó,no,si
+27800,Chocó,Unguía,si,si
+41006,Huila,Acevedo,no,si
+41020,Huila,Algeciras,si,si
+41078,Huila,Baraya,no,si
+41206,Huila,Colombia,no,si
+41349,Huila,Hobo,no,si
+41359,Huila,Isnos,no,si
+41799,Huila,Tello,no,si
+44001,La Guajira,Riohacha,no,si
+44090,La Guajira,Dibulla,si,si
+44110,La Guajira,El Molino,no,si
+44279,La Guajira,Fonseca,si,si
+44420,La Guajira,La Jagua del Pilar,no,si
+44430,La Guajira,Maicao,no,si
+44650,La Guajira,San Juan del Cesar,si,si
+44855,La Guajira,Urumita,no,si
+44874,La Guajira,Villanueva,no,si
+47001,Magdalena,Santa Marta,si,no
+47053,Magdalena,Aracataca,si,si
+47189,Magdalena,Ciénaga,si,no
+47288,Magdalena,Fundación,si,si
+50110,Meta,Barranca de Upía,no,si
+50223,Meta,Cubarral,no,si
+50245,Meta,El Calvario,no,si
+50251,Meta,El Castillo,no,si
+50270,Meta,El Dorado,no,si
+50287,Meta,Fuente de Oro,no,si
+50313,Meta,Granada,no,si
+50325,Meta,Mapiripán,si,si
+50330,Meta,Mesetas,si,si
+50350,Meta,La Macarena,si,si
+50370,Meta,Uribe,si,si
+50400,Meta,Lejanías,no,si
+50450,Meta,Puerto Concordia,si,si
+50568,Meta,Puerto Gaitán,no,si
+50577,Meta,Puerto Lleras,si,si
+50590,Meta,Puerto Rico,si,si
+50683,Meta,San Juan de Arama,no,si
+50686,Meta,San Juanito,no,si
+50689,Meta,San Martín,no,si
+50711,Meta,Vistahermosa,si,si
+52079,Nariño,Barbacoas,si,si
+52233,Nariño,Cumbitara,si,si
+52250,Nariño,El Charco,si,si
+52254,Nariño,El Peñol,no,si
+52256,Nariño,El Rosario,si,si
+52356,Nariño,Ipiales,no,si
+52385,Nariño,La Llanada,no,si
+52390,Nariño,La Tola,si,si
+52405,Nariño,Leiva,si,si
+52411,Nariño,Linares,no,si
+52418,Nariño,Los Andes,si,si
+52427,Nariño,Maguí,si,si
+52435,Nariño,Mallama,no,si
+52473,Nariño,Mosquera,si,si
+52490,Nariño,Olaya Herrera,si,si
+52520,Nariño,Francisco Pizarro,si,si
+52540,Nariño,Policarpa,si,si
+52573,Nariño,Puerres,no,si
+52612,Nariño,Ricaurte,si,si
+52621,Nariño,Roberto Payán,si,si
+52678,Nariño,Samaniego,no,si
+52696,Nariño,Santa Bárbara,si,si
+52835,Nariño,San Andrés de Tumaco,si,si
+54109,Norte de Santander,Bucarasica,no,si
+54206,Norte de Santander,Convención,si,si
+54245,Norte de Santander,El Carmen,si,si
+54250,Norte de Santander,El Tarra,si,si
+54261,Norte de Santander,El Zulia,no,si
+54344,Norte de Santander,Hacarí,si,si
+54398,Norte de Santander,La Playa,no,si
+54670,Norte de Santander,San Calixto,si,si
+54680,Norte de Santander,Santiago,no,si
+54720,Norte de Santander,Sardinata,si,si
+54800,Norte de Santander,Teorama,si,si
+54810,Norte de Santander,Tibú,si,si
+63302,Quindío,Genova,no,si
+63548,Quindío,Pijao,no,si
+63690,Quindío,Salento,no,si
+66075,Risaralda,Balboa,no,si
+66456,Risaralda,Mistrató,no,si
+66572,Risaralda,Pueblo Rico,no,si
+66594,Risaralda,Quinchía,no,si
+68101,Santander,Bolívar,no,si
+68169,Santander,Charta,no,si
+68255,Santander,El Playón,no,si
+68377,Santander,La Belleza,no,si
+68385,Santander,Landázuri,no,si
+68444,Santander,Matanza,no,si
+68615,Santander,Rionegro,no,si
+68655,Santander,Sabana de Torres,no,si
+68773,Santander,Sucre,no,si
+68780,Santander,Suratá,no,si
+70204,Sucre,Colosó,si,si
+70230,Sucre,Chalán,si,si
+70418,Sucre,Los Palmitos,si,si
+70473,Sucre,Morroa,si,si
+70508,Sucre,Ovejas,si,si
+70523,Sucre,Palmito,si,si
+70713,Sucre,San Onofre,si,si
+70823,Sucre,Tolú Viejo,si,si
+73026,Tolima,Alvarado,no,si
+73043,Tolima,Anzoátegui,no,si
+73067,Tolima,Ataco,si,si
+73124,Tolima,Cajamarca,no,si
+73152,Tolima,Casablanca,no,si
+73168,Tolima,Chaparral,si,si
+73236,Tolima,Dolores,no,si
+73347,Tolima,Herveo,no,si
+73408,Tolima,Lérida,no,si
+73461,Tolima,Murillo,no,si
+73504,Tolima,Ortega,no,si
+73555,Tolima,Planadas,si,si
+73563,Tolima,Prado,no,si
+73616,Tolima,Rioblanco,si,si
+73622,Tolima,Roncesvalles,no,si
+73624,Tolima,Rovira,no,si
+73675,Tolima,San Antonio,no,si
+73686,Tolima,Santa Isabel,no,si
+73861,Tolima,Venadillo,no,si
+73870,Tolima,Villahermosa,no,si
+73873,Tolima,Villarrica,no,si
+76041,Valle del Cauca,Ansermanuevo,no,si
+76054,Valle del Cauca,Argelia,no,si
+76100,Valle del Cauca,Bolívar,no,si
+76109,Valle del Cauca,Buenaventura,si,si
+76122,Valle del Cauca,Caicedonia,no,si
+76126,Valle del Cauca,Calima,no,si
+76233,Valle del Cauca,Dagua,no,si
+76243,Valle del Cauca,El Águila,no,si
+76246,Valle del Cauca,El Cairo,no,si
+76250,Valle del Cauca,El Dovio,no,si
+76275,Valle del Cauca,Florida,si,si
+76563,Valle del Cauca,Pradera,si,si
+76616,Valle del Cauca,Riofrío,no,si
+76622,Valle del Cauca,Roldanillo,no,si
+76890,Valle del Cauca,Yotoco,no,si
+81001,Arauca,Arauca,no,si
+81065,Arauca,Arauquita,si,si
+81220,Arauca,Cravo Norte,no,si
+81300,Arauca,Fortul,si,si
+81591,Arauca,Puerto Rondón,no,si
+81736,Arauca,Saravena,si,si
+81794,Arauca,Tame,si,si
+85010,Casanare,Aguazul,no,si
+85015,Casanare,Chámeza,no,si
+85125,Casanare,Hato Corozal,no,si
+85136,Casanare,La Salina,no,si
+85139,Casanare,Maní,no,si
+85162,Casanare,Monterrey,no,si
+85250,Casanare,Paz de Ariporo,no,si
+85263,Casanare,Pore,no,si
+85279,Casanare,Recetor,no,si
+85300,Casanare,Sabanalarga,no,si
+85315,Casanare,Sácama,no,si
+85400,Casanare,Támara,no,si
+85410,Casanare,Tauramena,no,si
+85440,Casanare,Villanueva,no,si
+86001,Putumayo,Mocoa,si,si
+86320,Putumayo,Orito,si,si
+86568,Putumayo,Puerto Asís,si,si
+86569,Putumayo,Puerto Caicedo,si,si
+86571,Putumayo,Puerto Guzmán,si,si
+86573,Putumayo,Puerto Leguízamo,si,si
+86757,Putumayo,San Miguel,si,si
+86865,Putumayo,Valle del Guamuez,si,si
+86885,Putumayo,Villagarzón,si,si
+95001,Guaviare,San José del Guaviare,si,si
+95015,Guaviare,Calamar,si,si
+95025,Guaviare,El Retorno,si,si
+95200,Guaviare,Miraflores,si,si
+97161,Vaupés,Carurú,no,si
+99773,Vichada,Cumaribo,no,si
